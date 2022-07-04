@@ -76,7 +76,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'imo.wsgi.application'
+WSGI_APPLICATION = 'imo-kai.wsgi.application'
 
 
 # Database
