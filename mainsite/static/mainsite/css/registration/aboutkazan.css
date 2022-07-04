@@ -1,4 +1,4 @@
-.main_icon_logo_text {
+/* .main_icon_logo_text {
     display: none;
 }
 
@@ -45,7 +45,7 @@
     justify-content: space-between;
     height: 80px;
     align-items: center;
-    /* box-shadow: 0px 20px 42px -1px rgb(0 0 0 / 8%); */
+
     border-radius: 25px;
     padding: 17px 30px;
     position: fixed;
@@ -122,7 +122,7 @@ p.b {
     font-weight: 500;
     font-size: 34px;
     line-height: 167.02%;
-    /* or 57px */
+
 
 
     color: #383838;
@@ -134,7 +134,6 @@ p.b {
     font-weight: 400;
     font-size: 21px;
     line-height: 188.02%;
-    /* or 39px */
 
 
     color: #383838;
@@ -146,7 +145,7 @@ p.b {
     font-weight: 400;
     font-size: 21px;
     line-height: 188.02%;
-    /* or 39px */
+
     padding: 0 30% 0 30%;
 
     color: #383838;
@@ -158,7 +157,7 @@ p.b {
     font-weight: 900;
     font-size: 51px;
     line-height: 63px;
-    /* identical to box height */
+
 
 
     color: #000000;
@@ -170,7 +169,7 @@ p.b {
     background-repeat: no-repeat;
     width: 2560px;
     height: 1090px;
-    /* height: 71%;  */
+
     background-color: #EDF7FF;
     border-radius: 25px;
 }
@@ -221,13 +220,13 @@ p.b {
     font-weight: 400;
     font-size: 12px;
     line-height: 188.02%;
-    /* or 39px */
+
 
 
     color: #383838;
 
 
-    /* Inside auto layout */
+
 
     flex: none;
     order: 1;
@@ -236,13 +235,10 @@ p.b {
 }
 
 .three-pictureOne-pic {
-    /* position: absolute; */
-    /* width: 90%;
-    height:90%; */
+
 
     max-width: 617px;
     width: 602px;
-    /* height: 1095.66px; */
     height: 100%;
     background-image: url(../../img/svg/aboutkazan/kazan-kulsharif.svg);
     background-repeat: no-repeat;
@@ -287,7 +283,7 @@ p.b {
     color: #000000;
 
 
-    /* Inside auto layout */
+
 
     flex: none;
     order: 0;
@@ -295,11 +291,9 @@ p.b {
 }
 
 .aboutkazan-answer {
-    /* width: 100%;
-    height: 2474px;
-    min-height: 2000px; */
+
     max-height: 2474px;
-    /* height: 100%; */
+
     width: 100%;
     background-color: #10B666;
     border-radius: 9% 9% 0 0;
@@ -307,7 +301,7 @@ p.b {
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: flex-start;
-    /* justify-content: space-between; */
+
 }
 
 .aboutkazan-answer-90 {
@@ -321,14 +315,14 @@ p.b {
     font-weight: 700;
     font-size: 55px;
     line-height: 116.1%;
-    /* or 107px */
+
 
     text-align: center;
 
     color: #FFFFFF;
 
 
-    /* Inside auto layout */
+
 
     flex: none;
     order: 0;
@@ -336,10 +330,7 @@ p.b {
 }
 
 .aboutkazan-answer-greenline {
-    /* width: 2000px;
-    height: 60px;
-    color: #036b32; */
-    /* transform: rotate(90deg); */
+
     height: 100%;
 }
 
@@ -440,7 +431,7 @@ p.b {
     font-weight: 500;
     font-size: 21px;
     line-height: 188.02%;
-    /* or 39px */
+
 
 
     color: #FFFFFF;
@@ -520,20 +511,7 @@ p.b {
     border-radius: 10%;
 }
 
-/* .WhatInteresting-four-cards-Two-line{
-    max-width: 1280px;
-    height: 731px;
-    background-image: url('../../img/svg/aboutkazan/Green-Vector.svg');
-    background-repeat: repeat;
-    -webkit-transform: rotate(45deg);
-    gap: 20px;
-    padding: 10%;
-}
 
-.WhatInteresting-four-cards-Two-line-text{
-    transform: rotate(-45deg);
-
-} */
 
 .WhatInteresting-four-cards-title {
     font-family: 'Averta CY';
@@ -582,7 +560,7 @@ p.b {
     font-weight: 700;
     font-size: 51px;
     line-height: 63px;
-    /* identical to box height */
+
     
 
     color: #000000;
@@ -675,4 +653,4 @@ p.b {
     justify-content: center;
     align-items: center;
     gap: 2%;
-}
+} */
