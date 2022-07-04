@@ -58,7 +58,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'imo-kai.urls'
+ROOT_URLCONF = 'imo.urls'
 
 TEMPLATES = [
     {
@@ -76,7 +76,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'imo-kai.wsgi.application'
+WSGI_APPLICATION = 'imo.wsgi.application'
 
 
 # Database
